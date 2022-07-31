@@ -8,8 +8,8 @@ salt='ppttx1'
 
 def sendH(to,code):#html
     mail_host = "smtp.qq.com"
-    mail_user = '1097641954@qq.com'
-    mail_pass = 'cxysxveckgzbifgd'
+    mail_user = 'xxxx'
+    mail_pass = 'xxxx'
     sender = to
     contnent="""
     <h1>{0}</h1>
